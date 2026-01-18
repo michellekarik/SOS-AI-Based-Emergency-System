@@ -82,9 +82,14 @@ streamlit run app.py
 - Copy the password (make sure no spaces between the number when placed inside the .env file)
 
 Interface for SOS-Emergency-System
-<img width="1911" height="1023" alt="image" src="https://github.com/user-attachments/assets/12710faf-14e2-4dbb-ac67-0c79ded528f8" />
+<img width="1911" height="1023" alt="image" src="https://github.com/user-attachments/assets/12710faf-14e2-4dbb-ac67-0c79ded528f8" />  
 
-<img width="1911" height="914" alt="image" src="https://github.com/user-attachments/assets/28cc77be-bb43-40d0-95ba-06693712ea4d" />
+<img width="1911" height="914" alt="image" src="https://github.com/user-attachments/assets/28cc77be-bb43-40d0-95ba-06693712ea4d" />  
+
+<img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/447c8342-601d-45e8-b171-2639dc933c44" />  
+
+<img width="793" height="639" alt="image" src="https://github.com/user-attachments/assets/f4b66412-ec68-4926-9195-e4de98beeace" />  
+
 
 
 
