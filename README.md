@@ -57,7 +57,7 @@ That’s why gesture-based SOS is essential. It allows the user to silently send
 
 1. Clone the repo  
 2. Create a virtual environment  
-3. Install python 3.10.x and dependencies: opencv-python, streamlite, requests, mediapipe, smtplib, pytz 
+3. Install python 3.10.x and dependencies: opencv-python, streamlite, requests, mediapipe, smtplib, pytz   
 pip install -r requirements.txt
 4. Add the following variables to .env file  
 TELEGRAM_TOKEN=YOUR_BOT_TOKEN  
@@ -66,5 +66,18 @@ EMAIL_PASSWORD=YOUR_APP_PASSWORD
 6. Run the app using command in terminal  
 streamlit run app.py
 
+to get the keys for .env file follow these steps:  
+1. Create a Telegram Bot
+- Open Telegram
+- Search @BotFather
+- Send the command:  
+/newbot
+- Copy the Bot Token provided by BotFather.  
 
+2. Create Gmail App Password
+- Use your Gmail account
+- Enable 2FA (Two-Factor Authentication)
+- Go to App Passwords
+- Generate a new App Password
+- Copy the password
 
