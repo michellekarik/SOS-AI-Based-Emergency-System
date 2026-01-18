@@ -66,7 +66,7 @@ EMAIL_PASSWORD=YOUR_APP_PASSWORD
 6. Run the app using command in terminal  
 streamlit run app.py
 
-## To get the keys for .env file follow these steps:  
+## To get the keys for the .env file follow these steps:  
 
 1. Create a Telegram Bot
 - Open Telegram
@@ -80,4 +80,13 @@ streamlit run app.py
 - Go to App Passwords
 - Generate a new App Password
 - Copy the password (make sure no spaces between the number when placed inside the .env file)
+
+Interface for SOS-Emergency-System
+<img width="1911" height="1023" alt="image" src="https://github.com/user-attachments/assets/12710faf-14e2-4dbb-ac67-0c79ded528f8" />
+
+<img width="1911" height="914" alt="image" src="https://github.com/user-attachments/assets/28cc77be-bb43-40d0-95ba-06693712ea4d" />
+
+
+
+
 
