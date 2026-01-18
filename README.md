@@ -67,13 +67,13 @@ EMAIL_PASSWORD=YOUR_APP_PASSWORD
 streamlit run app.py
 
 ## To get the keys for .env file follow these steps:  
+
 1. Create a Telegram Bot
 - Open Telegram
 - Search @BotFather
 - Send the command:  
 /newbot
 - Copy the Bot Token provided by BotFather.  
-
 2. Create Gmail App Password
 - Use your Gmail account
 - Enable 2FA (Two-Factor Authentication)
