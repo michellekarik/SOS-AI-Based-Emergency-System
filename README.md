@@ -101,7 +101,7 @@ streamlit run app.py
 **Telegram Automated SOS**
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/76ddde0e-00fb-4c54-86df-f61663ea8eff" />  
 
-**Google maps after clicking automated link providing accuracy based on device of victim IP address**
+**Google maps after clicking automated link providing accuracy based on the device IP address of the person in danger**
 <img width="1912" height="927" alt="image" src="https://github.com/user-attachments/assets/cac60fcb-4f73-4115-a582-f106a25a450f" />  
 
 ---
