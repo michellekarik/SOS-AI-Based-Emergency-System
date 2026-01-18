@@ -1,6 +1,17 @@
 # SOS-AI-Based-Emergency-System
 A real-time emergency alert system that detects a specific hand gesture (4 fingers up + thumb folded) using **MediaPipe** and **OpenCV**. When the gesture is recognized, the system automatically sends **Telegram and Email alerts** to registered emergency contacts. This project includes user authentication, contact management, and SOS logging using **SQLite**.
 
+**🚨 The Reality of Emergencies**
+
+In many dangerous situations, people cannot type, call, or speak. When someone is in immediate danger:
+- Hands may be shaking
+- Voice may be blocked
+- Typing may be impossible
+- They may not have time to explain
+- They may be physically unable to reach the phone
+That’s why gesture-based SOS is essential. It allows the user to silently send an emergency alert without saying a word.
+
+
 # **Global SOS Hand Gesture**
 <img width="890" height="553" alt="image" src="https://github.com/user-attachments/assets/9182b7b8-64fb-45cc-ab41-90c0856103e4" />
 
