@@ -12,6 +12,14 @@ In many dangerous situations, people cannot type, call, or speak. When someone i
 
 That’s why gesture-based SOS is essential. It allows the user to silently send an emergency alert without saying a word.
 
+**When SOS is detected, the system sends the following information: Time of SOS, Username (full name preferably), IP Address, Google Maps Link, Location (Latitude & Longitude), Default SOS Message “Check up on them as soon as possible. They could be in danger.”**
+
+
+This is important because:
+- The message is simple and direct
+- It immediately signals urgency
+- It avoids confusion and reduces response time
+
 
 # **Global SOS Hand Gesture**
 <img width="890" height="553" alt="image" src="https://github.com/user-attachments/assets/9182b7b8-64fb-45cc-ab41-90c0856103e4" />
