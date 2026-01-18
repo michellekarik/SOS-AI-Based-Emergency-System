@@ -79,5 +79,5 @@ streamlit run app.py
 - Enable 2FA (Two-Factor Authentication)
 - Go to App Passwords
 - Generate a new App Password
-- Copy the password
+- Copy the password (make sure no spaces between the number when placed inside the .env file)
 
