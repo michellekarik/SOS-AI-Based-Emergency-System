@@ -9,6 +9,7 @@ In many dangerous situations, people cannot type, call, or speak. When someone i
 - Typing may be impossible
 - They may not have time to explain
 - They may be physically unable to reach the phone
+
 That’s why gesture-based SOS is essential. It allows the user to silently send an emergency alert without saying a word.
 
 
