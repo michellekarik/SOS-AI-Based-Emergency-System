@@ -86,10 +86,10 @@ streamlit run app.py
 **login/register**
 <img width="1911" height="1023" alt="image" src="https://github.com/user-attachments/assets/12710faf-14e2-4dbb-ac67-0c79ded528f8" />  
 
-## **add emergency contacts (minimum 1)**
+**add emergency contacts (minimum 1)**
 <img width="1911" height="914" alt="image" src="https://github.com/user-attachments/assets/28cc77be-bb43-40d0-95ba-06693712ea4d" />  
 
-## **SOS detection camera button**
+**SOS detection camera button**
 <img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/447c8342-601d-45e8-b171-2639dc933c44" />  
 
 ## **hand landmark mapping**
