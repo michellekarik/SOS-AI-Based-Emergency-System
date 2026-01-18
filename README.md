@@ -66,7 +66,7 @@ EMAIL_PASSWORD=YOUR_APP_PASSWORD
 6. Run the app using command in terminal  
 streamlit run app.py
 
-to get the keys for .env file follow these steps:  
+## To get the keys for .env file follow these steps:  
 1. Create a Telegram Bot
 - Open Telegram
 - Search @BotFather
