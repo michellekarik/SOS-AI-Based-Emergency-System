@@ -59,11 +59,11 @@ That’s why gesture-based SOS is essential. It allows the user to silently send
 2. Create a virtual environment  
 3. Install python 3.10.x and dependencies: opencv-python, streamlite, requests, mediapipe, smtplib, pytz 
 pip install -r requirements.txt
-4. Add the following variables to .env file
-TELEGRAM_TOKEN=YOUR_BOT_TOKEN
-EMAIL_ADDRESS=YOUR_EMAIL@gmail.com
-EMAIL_PASSWORD=YOUR_APP_PASSWORD
-5. Run the app using command in terminal
+4. Add the following variables to .env file  
+TELEGRAM_TOKEN=YOUR_BOT_TOKEN  
+EMAIL_ADDRESS=YOUR_EMAIL@gmail.com  
+EMAIL_PASSWORD=YOUR_APP_PASSWORD  
+6. Run the app using command in terminal  
 streamlit run app.py
 
 
