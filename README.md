@@ -92,16 +92,16 @@ streamlit run app.py
 **SOS detection camera button**
 <img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/447c8342-601d-45e8-b171-2639dc933c44" />  
 
-## **hand landmark mapping**
+**hand landmark mapping**
 <img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/f4b66412-ec68-4926-9195-e4de98beeace" />  
 
-## **hand landmark mapping**
+**Email Automated SOS**
 <img width="2800" height="2000" alt="image" src="https://github.com/user-attachments/assets/93f337cb-0925-4ae5-a0fc-ce735ebbdacf" />
 
-## **Email Automated SOS**
+**Telegram Automated SOS**
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/76ddde0e-00fb-4c54-86df-f61663ea8eff" />  
 
-## **Telegram Automated SOS**
+**Google maps after clicking automated link providing accuracy based on device of victim IP address**
 <img width="1912" height="927" alt="image" src="https://github.com/user-attachments/assets/cac60fcb-4f73-4115-a582-f106a25a450f" />  
 
 ---
